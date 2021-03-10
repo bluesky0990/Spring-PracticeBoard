@@ -1,5 +1,7 @@
 # 이 레파지토리 만든이유
 다른 프로젝트할 때 참조하려고
+# Setup
+DB는 mysql 8.0 썻다 import 파일은 레파지토리 최상단에 'ExampleSpringBoard.sql'
 # 소스간 역할 및 상호관계, 수정부분
 ### prj\pom.xml
 해당 프로젝트 및 각 라이브러리 관리 파일
